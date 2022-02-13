@@ -1,4 +1,6 @@
-# Byte-compiled / optimized / DLL files
+#Folders to Ignore
+Practice_Files/
+
 __pycache__/
 *.py[cod]
 *$py.class
