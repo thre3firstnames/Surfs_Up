@@ -4,6 +4,8 @@ Analyze weather data from the Hawaiian island of Oahu during the months of June 
 
 ## Results
 Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
+![decembertemps.png](/Analysis/decembertemps.png)
+![junetemps.png](/Analysis/junetemps.png)
 - one
 - two
 - three
